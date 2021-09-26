@@ -1,0 +1,154 @@
+ local args = {
+            [1] = {
+                [1] = "Enchanted Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Golden Enchanted Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Relic Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Samurai Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Golden Samurai Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Rainbow Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        local args = {
+            [1] = {
+                [1] = "Golden Rainbow Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Haunted Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Golden Haunted Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Hell Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Golden HellEgg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Heaven Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+ 
+        local args = {
+            [1] = {
+                [1] = "Golden Heaven Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        wait(.1)
+        
+        
+        
+        local args = {
+            [1] = {
+                [1] = "Empyrean Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        
+        
+        wait(.1)
+        
+        local args = {
+            [1] = {
+                [1] = "Golden Empyrean Egg",
+                [2] = false
+            }
+        }
+        
+        workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+        
+    
+    wait(.1)

@@ -1,0 +1,18 @@
+local args = {
+    [1] = {
+        [1] = "Dominus Egg",
+        [2] = false
+    }
+}
+
+workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = {
+        [1] = "Dominus Egg",
+        [2] = false
+    }
+}
+
+workspace.__THINGS.__REMOTES:FindFirstChild("buy egg"):InvokeServer(unpack(args))

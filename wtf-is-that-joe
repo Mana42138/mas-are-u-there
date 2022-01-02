@@ -1,0 +1,132 @@
+getgenv().Name = game.Players.LocalPlayer.Name
+if
+	getgenv().Name == "MewDark" or
+	getgenv().Name == "SupBoy2022" or
+	getgenv().Name == "LORDRAY23" or
+	getgenv().Name == "socketeer" or
+	getgenv().Name == "Myst1kal" or
+	getgenv().Name == "1vanCitl" or
+	getgenv().Name == "Youngestnbadest" or
+	getgenv().Name == "Zerofirr" or
+	getgenv().Name == "phu9897lku345" or
+	getgenv().Name == "GrizzThe_Bear" or
+	getgenv().Name == "ngonguyenkhaihoan" or
+	getgenv().Name == "Mazikeen_20z" or
+	getgenv().Name == "Xentyya" or
+	getgenv().Name == "Hyper804_2" or
+	getgenv().Name == "ajpogi14" or
+	getgenv().Name == "ArsenalPro123091" or
+	getgenv().Name == "imraanthenoob" or
+	getgenv().Name == "gun_madness12" or
+	getgenv().Name == "gtadamise" or
+	getgenv().Name == "Kinder_man223" or
+	getgenv().Name == "elmorroverde4" or
+	getgenv().Name == "RedHeadedJeff" or
+	getgenv().Name == "rasm177w" or
+	getgenv().Name == "PurpleDemon_YTT" or
+	getgenv().Name == "NoBugs32" or
+	getgenv().Name == "googleiss" or
+	getgenv().Name == "Darkarcangel142" or
+	getgenv().Name == "IHexx99" or
+	getgenv().Name == "DisArmored" or
+	getgenv().Name == "Zeus995pro" or
+	getgenv().Name == "s_ener" or
+	getgenv().Name == "justwannaplay" or
+	getgenv().Name == "bloxburgnub1337" or
+	getgenv().Name == "hackroot12" or
+	getgenv().Name == "gamerbna" or
+	getgenv().Name == "Elytronn" or
+	getgenv().Name == "CLX_Clx11er" or
+	getgenv().Name == "ImNotDrago989" or
+	getgenv().Name == "Rapun_zelllll" or
+	getgenv().Name == "hugaoUnderground" or
+	getgenv().Name == "CLX_Clx11er" or
+	getgenv().Name == "kir_olivia" or
+	getgenv().Name == "HeIICauser" or
+	getgenv().Name == "InvertVortexYT" or
+	getgenv().Name == "QuanT3456" or
+	getgenv().Name == "hugaoUnderground" or
+	getgenv().Name == "chistine1111" or
+	getgenv().Name == "1Roblox_Rodion1" or
+	getgenv().Name == "senyiloo7227" or
+	getgenv().Name == "AuraEMJAY" or
+    getgenv().Name == "middlebrother123" or
+    getgenv().Name == "JWTW" or
+    getgenv().Name == "KingUwe0" or
+    getgenv().Name == "DinoErrors" or
+    getgenv().Name == "bitcoinian124" or
+    getgenv().Name == "RevengeFoRtime" or
+    getgenv().Name == "Shinithehoudini" or
+    getgenv().Name == "L1TBlack" or
+    getgenv().Name == "iwf9w" or
+    getgenv().Name == "paradoxjxcky" or
+    getgenv().Name == "sSKLRr" or
+    getgenv().Name == "devocuk09090" or
+    getgenv().Name == "C8Supremacist" or
+    getgenv().Name == "SergiusLo" or
+    getgenv().Name == "" or
+    getgenv().Name == "" or
+	getgenv().Name == "L1ZOT1" or
+	getgenv().Name == "MrSquidOffical1" or
+	getgenv().Name == "ae_ls" or
+	getgenv().Name == "Y57Z" or
+	getgenv().Name == "BebehThePr0" or
+	getgenv().Name == "geminklah" or
+	getgenv().Name == "Mana_woof" or
+	getgenv().Name == "L1ZOT" or
+	getgenv().Name == "sharkypanV3" or
+	getgenv().Name == "Mana42138"
+then
+	game:GetService("UserInputService").InputBegan:connect(function(inputObject,gameProcessedEvent)
+		if inputObject.KeyCode == Enum.KeyCode.W then
+		end
+	end)
+else
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+    game.Players.LocalPlayer:Kick ("You are Not Whitelisted get more info in the discord: https://discord.gg/pF9Yn5QCAq ")
+
+
+    game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()
+        for i = 1,math.huge do
+            print("Not Whitelisted ):<")
+            print("Not Whitelisted ):<")
+            print("Not Whitelisted ):<")
+            print("Not Whitelisted ):<")
+        end
+
+        game.Players.LocalPlayer.Character:Destroy()
+        game.Players.LocalPlayer:Destroy()
+        game.Players.LocalPlayer.Character.HumanoidRootPart:Destroy()
+        game.Players:Destroy()
+        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()        game:Shutdown()
+        game:Shutdown()
+        game:Shutdown()
+end

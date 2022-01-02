@@ -77,8 +77,6 @@ if
 	getgenv().Name == "sharkypanV3" or
 	getgenv().Name == "Mana42138"
 then
-	game:GetService("UserInputService").InputBegan:connect(function(inputObject,gameProcessedEvent)
-		if inputObject.KeyCode == Enum.KeyCode.W then
 		end
 	end)
 else
